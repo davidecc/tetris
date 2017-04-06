@@ -1,1 +1,2 @@
-#Tetris - Programaciòn orientada a objetos
+# Tetris
+## David Enrique Castro Campos
